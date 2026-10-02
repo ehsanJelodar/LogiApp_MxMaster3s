@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>MxMaster3s</string>
+    <key>CFBundleIdentifier</key>
+    <string>local.MxMaster3s</string>
+    <key>CFBundleName</key>
+    <string>MxMaster3s</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleIconFile</key>
+    <string>MxMaster3s</string>
+    <key>CFBundleIcons</key>
+    <dict>
+        <key>CFBundlePrimaryIcon</key>
+        <dict>
+            <key>CFBundleIconFiles</key>
+            <array>
+                <string>MxMaster3s</string>
+            </array>
+        </dict>
+    </dict>
+    <key>LSUIElement</key>
+    <true/>
+</dict>
+</plist>
